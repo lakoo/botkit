@@ -19,7 +19,7 @@
     "localtunnel": "^1.8.2",
     "md5": "^2.2.1",
     "mustache": "^2.3.0",
-    "perl-regex": "^1.0.2",
+    "perl-regex": "^1.0.4",
     "promise": "^8.0.0",
     "request": "^2.81.0",
     "twilio": "^2.11.1",
